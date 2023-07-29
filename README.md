@@ -1,5 +1,7 @@
 # desafio-hyper
 
+Neste repositório estão disponiveis a Etapa de Testes de API e Automa~lção utilizando javascript e cypress
+
 Execução dos testes automatizados utilizando cypress
 
 1. Ter o Node.js instalado na máquina.
