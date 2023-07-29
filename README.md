@@ -2,6 +2,8 @@
 
 Neste repositório estão disponiveis a Etapa de Testes de API e Automação utilizando javascript e cypress
 
+LINK com a documentação das demais etapas https://docs.google.com/document/d/1bfOWHyhgh4GApIqyW23Vnvo3VeJ6V8gckwio3Ikfv08/edit?usp=sharing
+
 Execução dos testes automatizados utilizando cypress
 
 1. Ter o Node.js instalado na máquina.
